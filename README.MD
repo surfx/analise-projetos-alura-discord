@@ -5,7 +5,11 @@
 3. Plota os 10 mais relevantes
 4. Se tivesse mais tempo adicionaria mais itens relevantes ao projeto, como análise do github e dos códigos dos projetos .ipynb / python / whateaver
 
-Selenium
+## Código ipynb
+
+[analise_projetos.ipynb](analise_projetos.ipynb)
+
+## Selenium
 
 ```bash
 $ pip install -U -q selenium webdriver-manager beautifulsoup4 pandas google-generativeai ipywidgets google-cloud-aiplatform
